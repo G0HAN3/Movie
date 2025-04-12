@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { movies } from '../data';
 
+
 const Movies = ({ selectedCategory }) => {
 
     const filteredMovies =
